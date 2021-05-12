@@ -12,8 +12,8 @@
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="corduant | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="corduant | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][whatsapp]
+[<a target="_blank" href="http://www.linkedin.com/in/patricia-corduant"><img align="left" alt="corduant | LinkedIn" width="22px" src="\img\031-linkedin.png" /></a>][linkedin]
+
 <br />
 
 
@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
+<img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor"  alt="bootstrap" width="50" height="50">
 
 ---
