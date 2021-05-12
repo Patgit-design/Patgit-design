@@ -1,5 +1,7 @@
 ### Hi there I'm Patricia Corduant👋 ✨ _Web Dev JR_ ✨ 
 
+---
+
 ## I'm learning WEBDEV at BeCode and ...
 
 - 🔭 I’m currently working on different languages in front and back-end.
@@ -8,7 +10,9 @@
 - 🤔 I’m looking for help with finding a stage
 - 💬 Ask me about Wordpress for example 
 - 😄 Pronouns: Pat
-- ⚡ Fun fact: I have a boat and play saxophone !
+- ⚡ Fun fact: I have a boat and play saxophone !:saxophone:
+
+---
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -16,6 +20,13 @@
 <a target="_blank" href="http://www.linkedin.com/in/patricia-corduant"><img align="left" alt="Corduant | LinkedIn" width="22px" src=".\img\031-linkedin.png" /></a>
 <a target="_blank" href="https://www.facebook.com/patricia.corduant"><img align="left" alt="Corduant | FB" width="22px" src=".\img\043-facebook-1.png" /></a>
 <br />
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patgit-design&layout=compact)](https://github.com/Patgit-design/github-readme-stats)
+
+---
 
 
 🧰 Toolbox
@@ -42,7 +53,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50">
    <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" alt="devicon" width="50" height="50">
-
-
 </code>
 
+---
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=Patgit-design.Patgit-design" alt="Visitors">                     
+</p>
