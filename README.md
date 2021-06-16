@@ -18,8 +18,8 @@
 
 
 <a target="_blank" href="http://www.linkedin.com/in/patricia-corduant"><img align="left" alt="Corduant | LinkedIn" width="22px" src=".\img\031-linkedin.png" /></a>
-<a target="_blank" href="https://www.instagram.com/patriciacorduant"><img align="left" alt="Corduant | Instagram" width="22px" src=".\img\034-instagram.png" /></a>
-<a target="_blank" href="https://www.facebook.com/patricia.corduant"><img align="left" alt="Corduant | FB" width="22px" src=".\img\043-facebook-1.png" /></a>
+<a target="_blank" href="https://www.instagram.com/patgitdesign"><img align="left" alt="Corduant | Instagram" width="22px" src=".\img\034-instagram.png" /></a>
+<a target="_blank" href="https://www.facebook.com/search/top?q=patgit%20design"><img align="left" alt="Corduant | FB" width="22px" src=".\img\043-facebook-1.png" /></a>
 <a target="_blank" href="http://m.me/patricia.corduant"><img align="left" alt="Corduant | FB-Mess" width="22px" src=".\img\044-messenger.png" /></a>
 <a target="_blank" href="https://wa.me/32470863299"><img align="left" alt="Corduant | Whatsapp" width="22px" src=".\img\007-whatsapp.png" /></a>
 <a target="_blank" href="mailto:patricia.corduant@gmail.com"><img align="left" alt="Corduant | Gmail" width="22px" src=".\img\gmail.png" /></a>
