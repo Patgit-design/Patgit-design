@@ -2,12 +2,11 @@
 
 ---
 
-## I'm learning WEBDEV at BeCode and ...
+## I'm employed as Web Designer
 
 - 🔭 I’m currently working on different languages in front and back-end.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning to learn
 - 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with finding a stage
 - 💬 Ask me about Wordpress for example 
 - 😄 Pronouns: Pat
 - ⚡ Fun fact: I have a boat and play saxophone !:saxophone:
